@@ -21,7 +21,7 @@ shortTitle: Spending limits
 
 Once you've reached your spending limit, your organization or repository will no longer be able to create new codespaces, and won't be able to start existing codespaces. Any existing codespaces that are still running will not be shutdown; if you don't change the spending limit, you will not be charged for the amount that exceeds the limit.
 
-For more information about pricing for {% data variables.product.prodname_codespaces %} usage, see "[About billing for {% data variables.product.prodname_codespaces %}](/billing/managing-billing-for-github-codespaces/about-billing-for-codespaces)."
+For more information about pricing for {% data variables.product.prodname_codespaces %} usage, see "[About billing for {% data variables.product.prodname_code variables.product.prodname_codespaces spaces %}](/billing/managing-billing-for-github-codespaces/about-billing-for-codespaces)."
 
 {% ifversion ghec %}
 ## Using your Azure Subscription
